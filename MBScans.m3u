@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 title="islamic" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV Urdu
+#EXTINF:-1 group-title="islamic" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
-#EXTINF:-1 title="islamic" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV English
+#EXTINF:-1 group-title="islamic" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png", PeaceTV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg", Quran TV
+#EXTINF:-1 group-title="islamic" tvg-logo="https://i.ibb.co/JW4BzGV4/Qtv.jpg", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
-#EXTINF:-1 title="sports" tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Cricbuzz TV
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.ibb.co/xSRCH2Bd/Willow-By-Cric-Buzz.jpg",Cricbuzz TV
 #https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
 http://3serverx.com:80/live/tesfirst5@gmail.com/9667186323/324778.ts
 
-#EXTINF:-1 title="sports" tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",Willow Sports
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",Willow Sports
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 title="sports" tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",willow By CricBuzz
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.ibb.co/93pTGxp1/Willow-Sports.jpg",willow By CricBuzz
 #http://27.124.71.27/Willow_Extra/index.m3u8
 http://3serverx.com:80/live/tesfirst5@gmail.com/9667186323/324776.ts
 
-#EXTINF:-1 title="sports" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvguidetonight.co.uk/wp-content/uploads/2020/06/sky-cricket.png", Sky Sports Cricket
 #http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
 http://3serverx.com:80/live/tesfirst5@gmail.com/9667186323/324773.ts
 
-#EXTINF:-1, tvg-logo="",Sports 2 Telugu
+#EXTINF:-1, group-title="sports" tvg-logo="https://i.ibb.co/DfTzMxjJ/star-sports-2-hd-logo.png",Sports 2 Telugu
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY TEN 1 HD
