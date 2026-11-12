@@ -73,12 +73,14 @@ https://go.skym3u.dev/live/356521/28afdad9bddd72e6571d2a4d01565a34aaec4d026baabe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
-#EXTINF:-1 group-title="Telugu" tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
+#EXTINF:-1 group-title="Telugu" tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa
 #http://217.20.112.199/maatv/index.m3u8
 #http://3serverx.com:80/live/tesfirst5@gmail.com/9667186323/693701.ts
+#https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-id="StarMaa.in@SD" tvg-name="Star Maa" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa.png" tvg-chno="334" channel-id="StarMaa.in@SD" tvg-country="IN" tvg-language="tel" group-title="Indian entertainment",Star Maa
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa.png",Star Maa HD
 https://go.skym3u.dev/live/356521/40d9d4429e163bd48f89426f0f2e3a3a9991213d7b88bc34fd9f03b18fbde212ac8940f275a8d277307f2da020a933ce8c395a50c262d6a02e86ae43da19da5727f4170c8bdbd0ee42ecc01b5167f589128c6e720331c6fa6f6ef50de05643e7b7362d1659033abe4f9756a5e0b1d22c3671d50e.m3u8?s=c4ac48&id=kgpz.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Maa Movies
@@ -86,7 +88,7 @@ https://go.skym3u.dev/live/356521/40d9d4429e163bd48f89426f0f2e3a3a9991213d7b88bc
 #http://3serverx.com:80/live/tesfirst5@gmail.com/9667186323/693700.ts
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-name="Star Maa Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa-movies.png" tvg-chno="139" channel-id="StarMaaMovies.in@SD" tvg-country="IN" tvg-language="tel" group-title="Bnagla",Star Maa Movies
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-maa-movies.png",Star Maa Movies HD
 https://go.skym3u.dev/live/356521/ec04c340888ae7187758ed685dde6337f6916b7c9bdf780640bf9e42a7f3da775276c9fe36c47b95fb4275dd086059c70e3488a3a73321d8091ae118c4a24f883cd4f13b6d1e2dc4cd26375fb5b917f90332187a9b1b067bbcceebd4af7323234d7de0b46ef7be53ad0c73b642d6eb7348ded5720a.m3u8?s=c4ac48&id=kgpz.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Maa Gold
