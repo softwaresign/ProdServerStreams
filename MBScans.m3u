@@ -278,6 +278,9 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBspMJdd/1000159737.png", Andhra Jothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-chno="1822" tvg-name="Sakshi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/SAKSHI-1761663596777.jpg" group-title="News",Sakshi TV
+https://go.skym3u.dev/live/356521/555121606ed6c2aecefde6bf9ae0862bd650f1906ba9721af822f02000ac86cec1eca6949d486ee908cd2da9da8ba039c4ed2899e05292f0816561f2120fc3e477189b68ffedb448ef98b4e9.m3u8?s=b3d77a&id=qpwx.m3u
+
 =================Other Channels=============================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Indian",ZEE ACTION
