@@ -243,6 +243,11 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 ================Kids Channels==============
+
+#EXTINF:-1 tvg-id="WOWKidz.in@Telugu" tvg-name="WOW Kidz Telugu" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wow-kidz-telugu.png" tvg-chno="566" channel-id="WOWKidz.in@Telugu" tvg-country="IN" tvg-language="tel" group-title="Kids",WOW Kidz Telugu
+https://go.skym3u.dev/live/356521/fa3e74fbe63ac0ff103a2b76390edbfff090dcca545062d990b4adb9b7b8e876ba8d45c5ed24ac7ffca170a0f7a9fe4d1b15db0a295718829cded09d23f60866dde1e5f8253c74da124a91d42da005ebe573b2c9d5a6e6c45ac2fdc6a91040479d3b5c0c6071d103454be7de76008f372c1af9322a8618420e2d1d8cd5cceb08098041d54372777e364f08f39e1c976d7bbb350c90c7da42f5cf0caf9c1d9610c7541ebe7a76a064c8636e8019da596185c57a59c1baff54eb694dbbe7e429d492a208e6d00b3be69d72d0f6675bafe55cb4a455bfef50887233f8.m3u8?s=c4ac48&id=kgpz.m3u
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
