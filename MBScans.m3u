@@ -64,6 +64,9 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeetelugu.smil/chunklist_b2628
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 http://3serverx.com:80/live/tesfirst5@gmail.com/9667186323/693689.ts
 
+#EXTINF:-1 tvg-id="Tollytv" tvg-chno="1812" tvg-name="Tolly TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/tolly-1773786489879.jpg" group-title="Movies",Tolly TV
+https://go.skym3u.dev/live/356521/28afdad9bddd72e6571d2a4d01565a34aaec4d026baabe599ca4753d810722db03c784397f876ad24f5b49d66d7c64f50503d261b64cb5dfb917862f1ce37927570b55a92548c3c8f75db8a75c866d9c9ed74a51b234a1e1a0e27fb43c208d50243e59c267fe61274b8e3541e6594e15a2c0d3a89b912053ed5cbf4ef75dc2d909e7bfad4dada8f3126198053c5f114210448814630a212eac31f7e64f60aaf50b1f7857be7c0921ee726b25074fc9d74dcb13930de703459dc91cf6e2581e3289492c2f02b4d5a521a4311b2f08ce30c589805e39bbe857de4876c22de8f55c320a008aa9010640cdadbf45e4f23a15c503c1fbe184f2783eae60226c274a098dea30e4453b94c76f5a7971728af43c0ab51ac5e54fc124857809341c1edaec385ad713b546b5a2e71271ddab023d52c8c8076691344885f40db9cd45bc994e8f3c67cc0a07c6ec45d365626653aa358ae7ea85840520ca4bb9a60828e309ca4fc2b854ba62d689bebab8a5d0e1c8eec85fdf16f0da71f2bc019c80b094bc923505e72b34902b0a8b53df0a3b514b2e31d2e2953dee2c3e0b9c3a38c49bd124074dc7fe74ebf2066495dcf845af861a41133b30ca5a6bdc36d848cd7c3123a6c36b5a4d2d22d4f98d9aa90cf056cceedf86a19a1d37bc0f78c48fceafd2d2d638.m3u8?s=b3d77a&id=qpwx.m3u
+
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", ZEE Telugu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HOXNdaatRKOKfRuNuvnDMA","k":"ZX_I59UzRWywZE_gNFiksg"}],"type":"temporary"}
