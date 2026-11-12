@@ -45,7 +45,8 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallin
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.ibb.co/4RrrbZmR/1000148802.png",Cricket Gold
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+https://go.skym3u.dev/live/356521/2132a06a3d3848fb04fc65f67d4e9b1877f490d4e5d81aac671a39a46dde7f1259620213ca4067a3d03c1d48531ec32c0f4ebf6d8df20aa53549087b678f061907f0870bf9187490266ad61ef0d90092d40a30f6551cdcc4eca136a9727d340058e0c6bfc001cc67e92d8c2dc37d9b2a28961d2089c3d2ddbd9bbeb9474243d66ac6ef20457c40b1e771867a902cc9aa639f10f63a264c13.m3u8?s=b3d77a&id=qpwx.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+twEv/RMzYIidXVbiDeTQ", "kid":"iA3JRGCvQZe7v0Ohdvs6lQ" } ], "type":"temporary" }
